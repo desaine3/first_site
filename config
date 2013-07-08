@@ -6,7 +6,7 @@
   ignorecase = true
   precomposeunicode = false
 [remote "origin"]
-	url = git@github.com:desaine3/first_site.git
+	url = https://github.com:desaine3/first_site.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
   push = +refs/heads/master:refs/heads/gh-pages
   push = +refs/heads/master:refs/heads/master
